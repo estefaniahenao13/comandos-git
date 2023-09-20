@@ -8,5 +8,6 @@
 7.git commit --amend "editar nombre de comit
 8.git checkout -b rama-heroes "creacion de rama"
 9.it checkout master "cambio de rama"
-10. git branch -d rama-heroes
-11. git push
+10.git branch -d rama-heroes
+11.git push
+12.git commit -am
