@@ -1,11 +1,12 @@
 #COMANDOS
-git init
-git add.
-git reset "bajar cambios"
-git commit
-git checkout --. "recuperar version inicial despues del ultimo commit"
-git log "ver historial de comit"
-git commit --amend "editar nombre de comit
-git checkout -b rama-heroes "creacion de rama"
-git checkout master "cambio de rama"
-10 git branch -d rama-heroes
+1.git init
+2.git add.
+3.git reset "bajar cambios"
+4.git commit
+5.git checkout --. "recuperar version inicial despues del ultimo commit"
+6.git log "ver historial de comit"
+7.git commit --amend "editar nombre de comit
+8.git checkout -b rama-heroes "creacion de rama"
+9.it checkout master "cambio de rama"
+10. git branch -d rama-heroes
+11. git push
