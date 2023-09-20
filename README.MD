@@ -8,3 +8,4 @@ git log "ver historial de comit"
 git commit --amend "editar nombre de comit
 git checkout -b rama-heroes "creacion de rama"
 git checkout master "cambio de rama"
+10 git branch -d rama-heroes
